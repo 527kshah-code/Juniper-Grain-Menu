@@ -5,7 +5,7 @@
 // =============================================================
 
 const API =
-  'https://script.google.com/macros/s/AKfycbwXROpVONbwGyXE_9OggCYznSzMSWdmvajZ4JmQVQFq8ysqLrsloKBpvd4NBo6dZESyzA/exec'
+  'https://script.google.com/macros/s/AKfycby0zoUOzsTcci2GcPVwSvl7OjxgmhzaISKmL5_VmZciK3O_xE18bu_lE6ok8_g3On2IyQ/exec'
 
 const statusMessage = document.getElementById('status')
 const menuContainer = document.getElementById('menu')
